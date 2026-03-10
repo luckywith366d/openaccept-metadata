@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/eurocrypt/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 143,
+      "submitted": 701
+    },
+    {
       "year": 2025,
       "accepted": 123,
       "submitted": 602,
